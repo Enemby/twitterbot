@@ -1,4 +1,4 @@
-twitterbot
+Gamedev Quotes twitterbot
 ==========
 
 Twitter bot that tweets a random line from a file.
@@ -22,3 +22,7 @@ Requires Twython and Twisted
 ```
 pip install twython twisted
 ```
+
+Status
+-------------
+I have yet to do any work on this. See you in a bit!
